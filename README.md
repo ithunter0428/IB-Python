@@ -32,7 +32,7 @@ python setup.py install
 Pip also supports installing directly from GitHub, e.g. if you want commit `83b9d08ed9c850d840a6700d0fb9c3ca164f9bff`, use
 
 ```
-pip install git+https://github.com/blampe/IbPy@83b9d08ed9c850d840a6700d0fb9c3ca164f9bff
+pip install git+https://github.com/ithunter101/IB-Python@83b9d08ed9c850d840a6700d0fb9c3ca164f9bff
 ```
 
 ## How do I use IbPy?
