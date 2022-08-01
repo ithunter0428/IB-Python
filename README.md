@@ -53,7 +53,3 @@ release for details.
 
 IbPy is not a product of Interactive Brokers, nor is this project affiliated
 with IB.
-
-## Source code
-
-https://github.com/blampe/IbPy
