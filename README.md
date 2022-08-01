@@ -37,7 +37,7 @@ pip install git+https://github.com/blampe/IbPy@83b9d08ed9c850d840a6700d0fb9c3ca1
 
 ## How do I use IbPy?
 
-See the IbPy wiki page https://github.com/blampe/IbPy/wiki/Getting-Started
+See the IbPy wiki page https://github.com/ithunter101/IB-Python/wiki/Getting-Started
 
 ## What are the requirements?
 
